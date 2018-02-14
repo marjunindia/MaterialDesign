@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ffcd42</color> <!--statusbar color>-->
+    <color name="colorPrimaryDark">#1ca646</color><!--toolbbar color>-->
+    <color name="colorAccent">#FF4081</color>
+</resources>
