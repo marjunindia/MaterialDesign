@@ -3,4 +3,5 @@
     <color name="colorPrimary">#ffcd42</color> <!--statusbar color>-->
     <color name="colorPrimaryDark">#1ca646</color><!--toolbbar color>-->
     <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#bf2525</color>
 </resources>
